@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkdriedfruits"]=self["webpackChunkdriedfruits"]||[]).push([[629],{8629:function(r,n,u){function e(r,n,u,e,t,f){return null}u.r(n),u.d(n,{default:function(){return s}});var t={},f=u(89);const i=(0,f.Z)(t,[["render",e]]);var s=i}}]);
+//# sourceMappingURL=629.00b1fb62.js.map
